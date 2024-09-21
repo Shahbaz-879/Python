@@ -1,0 +1,11 @@
+print("Hello World") #This will print a string
+print("Shahbaz") #Ctrl+/ (short to comment)
+#This will print a number with + function
+print("3+4")
+
+#variables
+s = 3+6+9*6
+
+print(s)
+print(s+4)
+print (s**2)
